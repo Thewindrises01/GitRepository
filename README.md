@@ -1,2 +1,2 @@
 # GitRepository
-a projects repository
+A Repository
